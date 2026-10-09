@@ -1,6 +1,6 @@
 cask "fastsampler" do
-  version "1.2.0.706"
-  sha256 "95e58dd92efabd053a0ef9dbd94059e22d04903e7eaae77f4514af73d83290e7"
+  version "1.3.0.732"
+  sha256 "f8b5aa57bfd22974b8f372ca5777691010f8136cadd9bf917c3df9bfbe24ea5b"
 
   url "https://github.com/M52/fastsampler-downloads/releases/download/v#{version}/FastSampler-macos-universal.zip",
       verified: "github.com/M52/fastsampler-downloads/"
